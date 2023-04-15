@@ -84,12 +84,15 @@ Everything Web Development, front-end or back-end. All using latest .NET, Node.j
 <br />
 
 ## VS Code - Extensions
-**.NET Core Pack:**[<img align="left" alt="Terminal" title="Terminal" height="45px" src="https://coddictco.gallerycdn.vsassets.io/extensions/coddictco/net-vscode-pack/1.1.0/1659773259356/Microsoft.VisualStudio.Services.Icons.Default" />](https://marketplace.visualstudio.com/items?itemName=coddictco.net-vscode-pack)
+[**.NET Core Pack:**<img align="left" alt=".NET Core Pack extension" title="Terminal" height="45px" src="https://coddictco.gallerycdn.vsassets.io/extensions/coddictco/net-vscode-pack/1.1.0/1659773259356/Microsoft.VisualStudio.Services.Icons.Default" />](https://marketplace.visualstudio.com/items?itemName=coddictco.net-vscode-pack)
 
 <br />
 
-**Angular Pack:**
-[<img align="left" alt="Terminal" title="Terminal" height="45px" src="https://coddictco.gallerycdn.vsassets.io/extensions/coddictco/angular-vscode-pack/1.0.0/1662222843937/Microsoft.VisualStudio.Services.Icons.Default" />](hhttps://marketplace.visualstudio.com/items?itemName=coddictco.angular-vscode-pack)
+[**Angular Pack:**<img align="left" alt="Terminal" title="Angular Pack extension" height="45px" src="https://coddictco.gallerycdn.vsassets.io/extensions/coddictco/angular-vscode-pack/1.0.0/1662222843937/Microsoft.VisualStudio.Services.Icons.Default" />](https://marketplace.visualstudio.com/items?itemName=coddictco.angular-vscode-pack)
+
+<br />
+
+[**Productivity Plus:**<img align="left" alt="Terminal" title="Productivity Plus extension" height="45px" src="https://coddictco.gallerycdn.vsassets.io/extensions/coddictco/productivity-plus/1.3.0/1681592425430/Microsoft.VisualStudio.Services.Icons.Default" />](https://marketplace.visualstudio.com/items?itemName=coddictco.productivity-plus)
 
 
 [coddict]: https://coddict.co
