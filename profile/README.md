@@ -21,13 +21,13 @@ Everything Web Development, front-end or back-end. All using latest .NET, Node.j
 
 ### Connect with me:
 
-[<img align="left" alt="Coddict" width="40px" src="/icons/coddict.svg" />][coddict]
-[<img align="left" alt="Coddict | youtube" width="40px" src="/icons/youtube.svg" />][youtube]
-[<img align="left" alt="coddictco | Twitter" width="35px" src="/icons/twitter.svg" />][twitter]
-[<img align="left" alt="coddictco | Facebook" width="35px" src="/icons/facebook.svg" />][facebook]
-[<img align="left" alt="coddictco | LinkedIn" width="35px" src="/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Coddict | PayPal" width="35px" src="/icons/paypal.svg" />][paypal]
-[<img align="left" alt="Coddict | Patreon" width="35px" src="/icons/patreon.svg" />][patreon]
+[<img align="left" alt="Coddict" width="40px" src="icons/coddict.svg" />][coddict]
+[<img align="left" alt="Coddict | youtube" width="40px" src="icons/youtube.svg" />][youtube]
+[<img align="left" alt="coddictco | Twitter" width="35px" src="icons/twitter.svg" />][twitter]
+[<img align="left" alt="coddictco | Facebook" width="35px" src="icons/facebook.svg" />][facebook]
+[<img align="left" alt="coddictco | LinkedIn" width="35px" src="icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Coddict | PayPal" width="35px" src="icons/paypal.svg" />][paypal]
+[<img align="left" alt="Coddict | Patreon" width="35px" src="icons/patreon.svg" />][patreon]
 
 <br />
 <br />
@@ -52,32 +52,32 @@ Everything Web Development, front-end or back-end. All using latest .NET, Node.j
 <br />
 
 ### Backend:
-[<img align="left" alt=".NET" title=".NET" height="45px" src="/icons/dotnet.svg" />][youtube]
-[<img align="left" alt="ASP.NET" title="ASP.NET" height="25px" src="/icons/aspnet.svg" />][youtube]
-[<img align="left" alt="Node.js" title="Node.js" height="45px" src="/icons/nodejs.svg" />][youtube]
-[<img align="left" alt="Astro" title="Astro" height="45px" src="/icons/astro.svg" />][youtube]
-[<img align="left" alt="WordPress" title="WordPress" height="45px" src="/icons/wordpress.svg" />][youtube]
+[<img align="left" alt=".NET" title=".NET" height="45px" src="icons/dotnet.svg" />][youtube]
+[<img align="left" alt="ASP.NET" title="ASP.NET" height="25px" src="icons/aspnet.svg" />][youtube]
+[<img align="left" alt="Node.js" title="Node.js" height="45px" src="icons/nodejs.svg" />][youtube]
+[<img align="left" alt="Astro" title="Astro" height="45px" src="icons/astro.svg" />][youtube]
+[<img align="left" alt="WordPress" title="WordPress" height="45px" src="icons/wordpress.svg" />][youtube]
 
 <br />
 <br />
 
 ### Database:
-[<img align="left" alt="MySQL" title="MySQL" height="35px" src="/icons/mysql.svg" />][youtube]
-[<img align="left" alt="Microsoft SQL Server" title="Microsoft SQL Server" height="45px" src="/icons/sqlserver.svg" />][youtube]
-[<img align="left" alt="PostgreSQL" title="PostgreSQL" height="40px" src="/icons/postgresql.svg" />][youtube]
-[<img align="left" alt="MongoDB" title="MongoDB" height="30px" src="/icons/mongodb.svg" />][youtube]
+[<img align="left" alt="MySQL" title="MySQL" height="35px" src="icons/mysql.svg" />][youtube]
+[<img align="left" alt="Microsoft SQL Server" title="Microsoft SQL Server" height="45px" src="icons/sqlserver.svg" />][youtube]
+[<img align="left" alt="PostgreSQL" title="PostgreSQL" height="40px" src="icons/postgresql.svg" />][youtube]
+[<img align="left" alt="MongoDB" title="MongoDB" height="30px" src="icons/mongodb.svg" />][youtube]
 
 <br />
 <br />
 
 ### Tools:
-[<img align="left" alt="Visual Studio Code" title="Visual Studio Code" height="45px" src="/icons/vscode.svg" />][youtube]
-[<img align="left" alt="Visual Studio" title="Visual Studio" height="45px" src="/icons/visualstudio.svg" />][youtube]
-[<img align="left" alt="Docker" title="Docker" height="45px" src="/icons/docker.png" />][youtube]
-[<img align="left" alt="Git" title="Git" height="35px" src="/icons/git.svg" />][youtube]
-[<img align="left" alt="GitHub" title="GitHub" height="45px" src="/icons/github.svg" />][youtube]
-[<img align="left" alt="Azure DevOps" title="Azure DevOps" height="45px" src="/icons/azure-devops.svg" />][youtube]
-[<img align="left" alt="Terminal" title="Terminal" height="45px" src="/icons/terminal.svg" />][youtube]
+[<img align="left" alt="Visual Studio Code" title="Visual Studio Code" height="45px" src="icons/vscode.svg" />][youtube]
+[<img align="left" alt="Visual Studio" title="Visual Studio" height="45px" src="icons/visualstudio.svg" />][youtube]
+[<img align="left" alt="Docker" title="Docker" height="45px" src="icons/docker.png" />][youtube]
+[<img align="left" alt="Git" title="Git" height="35px" src="icons/git.svg" />][youtube]
+[<img align="left" alt="GitHub" title="GitHub" height="45px" src="icons/github.svg" />][youtube]
+[<img align="left" alt="Azure DevOps" title="Azure DevOps" height="45px" src="icons/azure-devops.svg" />][youtube]
+[<img align="left" alt="Terminal" title="Terminal" height="45px" src="icons/terminal.svg" />][youtube]
 
 <br />
 <br />
